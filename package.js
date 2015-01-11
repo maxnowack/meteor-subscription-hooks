@@ -1,7 +1,7 @@
 Package.describe({
   name: 'maxnowack:subscription-hooks',
   summary: 'Meteor package for adding multiple callbacks to a subscription',
-  version: '0.1.0',
+  version: '0.2.0',
   git: 'https://github.com/maxnowack/meteor-subscription-hooks'
 });
 
